@@ -16,8 +16,8 @@ const CONFIG = {
   weddingDate: "July 11, 2026",
   weddingDateAr: "١١ يوليو ٢٠٢٦",
   weddingTime: "8:00 PM",
-  weddingLocation: "Al Masiya Hall , Talkha . Mansoura",
-  weddingLocationAr: "قاعة الماسية, طلخا، المنصورة",
+  weddingLocation: "Al Masiya Hall  . Mansoura",
+  weddingLocationAr: "قاعة الماسية, المنصورة",
   weddingMapLink:
     "https://www.google.com/maps/place/%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D9%8A%D8%A9%E2%80%AD/@31.0461422,31.3571405,18.6z/data=!4m10!1m2!2m1!1z2YLYp9i52Kkg2KfZhNmF2KfYs9mK2Kk!3m6!1s0x14f79dd799be713b:0xe26db5e924aa4ef!8m2!3d31.0464651!4d31.3562813!15sChfZgtin2LnYqSDYp9mE2YXYp9iz2YrYqVoZIhfZgtin2LnYqSDYp9mE2YXYp9iz2YrYqZIBDGJhbnF1ZXRfaGFsbOABAA!16s%2Fg%2F11cs5fl33f?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
 
