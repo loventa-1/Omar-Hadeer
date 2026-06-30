@@ -31,8 +31,8 @@ const CONFIG = {
   //   "https://www.google.com/maps/place/31%C2%B004'28.8%22N+31%C2%B029'47.0%22E/@31.0746681,31.4970447,19z/data=!3m1!4b1!4m4!3m3!8m2!3d31.074667!4d31.496401!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
 
   // --- WhatsApp Numbers (for RSVP) ---
-  groomWhatsapp: "201553565220",
-  brideWhatsapp: "201557553478",
+  groomWhatsapp: "201002202326",
+  brideWhatsapp: "201020797487",
 
   // --- Social Media Links ---
   social: {
